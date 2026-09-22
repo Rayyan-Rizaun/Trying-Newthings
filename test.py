@@ -1,2 +1,3 @@
 print("Bismillahirrahmanirraheem")
-print ("allah")
+
+print("allahu akbar")
